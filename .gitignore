@@ -1,0 +1,10 @@
+node_modules
+Cypress.app
+cypress/downloads
+cypress/videos
+cypress/fixtures
+cypress/support
+.history
+.vscode
+env
+.DS_Store

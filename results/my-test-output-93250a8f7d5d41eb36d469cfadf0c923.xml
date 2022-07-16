@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="49.0310" tests="4" failures="1">
+  <testsuite name="Root Suite" timestamp="2022-07-16T18:36:33" tests="0" file="cypress/e2e/Testcases/Mostly.cy.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Mostly.AI Website Automation Test" timestamp="2022-07-16T18:36:33" tests="1" time="26.6220" failures="0">
+    <testcase name="Mostly.AI Website Automation Test Visit Mostly.AI Website URL" time="26.6220" classname="Visit Mostly.AI Website URL">
+    </testcase>
+  </testsuite>
+  <testsuite name="Verify bookmarks" timestamp="2022-07-16T18:37:03" tests="1" time="4.5520" failures="0">
+    <testcase name="Verify bookmarks Verify bookmarks" time="4.5520" classname="Verify bookmarks">
+    </testcase>
+  </testsuite>
+  <testsuite name="Search a keyword" timestamp="2022-07-16T18:37:08" tests="1" time="17.8570" failures="0">
+    <testcase name="Search a keyword Verify search" time="17.8570" classname="Verify search">
+    </testcase>
+  </testsuite>
+  <testsuite name="Contact Form" timestamp="2022-07-16T18:37:26" tests="1" time="0.0000" failures="1">
+    <testcase name="Contact Form Fill contact form" time="0.0000" classname="Fill contact form">
+      <failure message="Timed out retrying after 80000ms: Expected to find element: `#CookieBoxSaveButton`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying after 80000ms: Expected to find element: `#CookieBoxSaveButton`, but never found it.
+    at Context.eval (https://mostly.ai/__cypress/tests?p=cypress/e2e/Testcases/Mostly.cy.js:161:8)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
