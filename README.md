@@ -1,4 +1,6 @@
-###Web Automation Test using Cypress
+###Web Automation Test using Cypress ###
+
+
 This is an automated test scripts for MOSTLY.AI https://mostly.ai/ Website using cypress. Cypress is an open source software testing framework. Read more here: https://docs.cypress.io/
 In this project, three test scenerios was created and tested as steps 1, 2 and 3
 Test Result can be viewed from the results folder
@@ -34,4 +36,5 @@ Download cypress https://www.cypress.io/ https://docs.cypress.io/guides/getting-
 6. Choose a browser
 
 #Test Result
-<img width="575" alt="Screenshot 2022-06-22 at 15 57 40" src="https://user-images.githubusercontent.com/26316863/179374506-ce46b9fa-a289-4a54-87dc-0770050d6f99.png">
+<img width="1195" alt="Screenshot 2022-07-17 at 00 02 59" src="https://user-images.githubusercontent.com/26316863/179374543-0dd0f5d0-f83c-45d2-8f57-bc8c8e693ff4.png">
+
