@@ -9,10 +9,12 @@ Test script directory is e2e/Testcases/Mostly.cy.js
 Css selector script  directory is e2e/Testcases/mostly-selector.cy.js
 
 ##Dependencies
+Requirement: Download cypress 10 https://www.cypress.io/ 
+https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
+
 Prerequisite
 1. Download and install NodeJS.
 2. Download and install VScode
-Download cypress https://www.cypress.io/ https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
 
 #To start a new Project
 1. Create Project folder
